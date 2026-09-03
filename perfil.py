@@ -3,3 +3,4 @@ print("Bienvenido a mi programa", nombre)
 edad = int(input("Escribe tu edad"))
 print("Bienvenido a mi programa", nombre, "Tienes", edad, "años")
 print ("Hola Dulce")
+#Prueba de nueva linea de codigo
