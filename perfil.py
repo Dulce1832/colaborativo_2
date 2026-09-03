@@ -1,2 +1,4 @@
 nombre= input("¿Cúal es tu nombre?")
 print("Bienvenido a mi programa", nombre)
+edad = int(input("Escribe tu edad"))
+print("Bienvenido a mi programa", nombre, "Tienes", edad, "años")
